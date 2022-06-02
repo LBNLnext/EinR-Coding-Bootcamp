@@ -31,7 +31,7 @@ Then, you will use the Anaconda Navigator application that you just installed to
 
 1. Open the Anaconda Navigator application (note that it might take a few minutes to load up when you launch the application the first time).
 2. Click the 'Launch' button under 'Jupyter Notebook' (NOT JupyterLab) and then navigate through your file system to the `EinR-Coding-Bootcamp` folder you just downloaded.
-3. Go to the notebooks folder and open `intro_to_python.ipynb` to begin. You don't have to run anything for now - this will be the first notebook we will use during the coding bootcamp. Just make sure that you can open the notebook successfully!
+3. Go to the notebooks folder and open `00_intro_to_python.ipynb` to begin. You don't have to run anything for now - this will be the first notebook we will use during the coding bootcamp. Just make sure that you can open the notebook successfully!
 
 ## Alternative to Anaconda
 
@@ -42,3 +42,13 @@ In case Anaconda isn't working, an alternative option is to run the Jupyter note
 ## Link to folder containing workshop slides
 
 *Link coming soon*
+
+## Acknowledgements
+
+The Berkeley Lab K-12 team is truly grateful to the following who contributed to notebooks/slides:
+
+**Notebooks:** Kseniya Usovich, Rachel McCarty, Baishakhi Bose
+
+**Slides:** Emilia Calderon, Christina McGhee-Esquivel, Rachel McCarty
+
+*Repo format inspired from UC Berkeley's [D-Lab](https://github.com/dlab-berkeley)*
