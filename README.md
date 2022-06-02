@@ -41,7 +41,7 @@ In case Anaconda isn't working, an alternative option is to run the Jupyter note
 
 ## Link to folder containing workshop slides
 
-*Link coming soon*
+[Google Drive with Workshop Slides](https://drive.google.com/drive/folders/1BMyXMpynxSn1IuoJdv214d-6zlDc91Dx?usp=sharing)
 
 ## Acknowledgements
 
