@@ -37,7 +37,7 @@ Then, you will use the Anaconda Navigator application that you just installed to
 
 In case Anaconda isn't working, an alternative option is to run the Jupyter notebooks in the cloud through binder. Just keep in mind that your work is not saved in binder.
 
-*Binder link coming soon*
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LBNLnext/EinR-Coding-Bootcamp/HEAD?urlpath=tree)
 
 ## Link to folder containing workshop slides
 
