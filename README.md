@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the Jupyter notebooks for Berkeley Lab K-12 STEM Education & Outreach Programs' Experiences in Research (EinR) Coding Bootcamp. The purpose of this coding bootcamp is to help prepare interns to successfully work on coding-based projects. The coding bootcamp will be in Python and utilize Jupyter notebooks. The following topics will be covered:
+This repository contains the Jupyter notebooks for Berkeley Lab K-12 STEM Education & Outreach Programs Experiences in Research (EinR) Coding Bootcamp. The purpose of this coding bootcamp is to help prepare interns to successfully work on coding-based projects. The coding bootcamp will be in Python and utilize Jupyter notebooks. The following topics will be covered:
 - Jupyter notebook basics
 - Data types
 - Variables
