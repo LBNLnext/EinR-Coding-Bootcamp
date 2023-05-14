@@ -18,7 +18,9 @@ This repository contains the Jupyter notebooks for Berkeley Lab K-12 STEM Educat
 
 The easiest way to run Python and Jupyter notebooks on your computer is through Anaconda. Anaconda is an open-source (free!) Python distribution platform.
 
-Click here to download [Anaconda Distribution (Python 3.9, 64-Bit Graphical Installer)](https://www.anaconda.com/products/distribution). Make sure you are downloading the correct version for your operating system (Windows, Mac, or Linux).
+Click here to download [Anaconda Distribution (Python 3.10, 64-Bit Graphical Installer)](https://www.anaconda.com/products/distribution). Make sure you are downloading the correct version for your operating system (Windows, Mac, or Linux).
+
+We recommend students to run notebooks locally on their computers by downloading Anaconda, but Anaconda now has a new feature where you can run notebooks in the cloud. Through the above linked website, you can click on 'Start Coding Now' instead of 'Download', create a free account, verify your email, then use their cloud interface. Note that interface uses JupyterLab, which is pretty similar but different to Jupyter Notebooks. Keep in mind that you still have to download the coding bootcamp materials from this repository, then upload it to the cloud.
 
 ## Running Jupyter Notebooks
 
@@ -35,20 +37,20 @@ Then, you will use the Anaconda Navigator application that you just installed to
 
 ## Alternative to Anaconda
 
-In case Anaconda isn't working, an alternative option is to run the Jupyter notebooks in the cloud through binder. Just keep in mind that your work is not saved in binder.
+In case Anaconda isn't working, an alternative option is to run the Jupyter notebooks in the cloud through binder. Just keep in mind that your work is **not** saved in binder.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LBNLnext/EinR-Coding-Bootcamp/HEAD?urlpath=tree)
 
 ## Link to folder containing workshop slides
 
-[Google Drive with Workshop Slides](https://drive.google.com/drive/folders/1BMyXMpynxSn1IuoJdv214d-6zlDc91Dx?usp=sharing)
+[Google Drive with Workshop Slides](https://drive.google.com/drive/folders/1_477H-KTmSNbEh4np453yHDz25rpMP3I?usp=share_link)
 
 ## Acknowledgements
 
 The Berkeley Lab K-12 team is truly grateful to the following who contributed to notebooks/slides:
 
-**Notebooks:** Kseniya Usovich, Rachel McCarty, Baishakhi Bose
+**Notebooks:** Kseniya Usovich, Rachel McCarty, Baishakhi Bose, Laurel Hales, Samanvitha Murthy
 
-**Slides:** Emilia Calderon, Christina McGhee-Esquivel, Rachel McCarty
+**Slides:** Emilia Calderon, Christina McGhee-Esquivel, Rachel McCarty, Laurel Hales
 
 *Repo format inspired from UC Berkeley's [D-Lab](https://github.com/dlab-berkeley)*
