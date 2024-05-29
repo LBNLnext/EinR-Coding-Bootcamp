@@ -18,9 +18,9 @@ This repository contains the Jupyter notebooks for Berkeley Lab K-12 STEM Educat
 
 The easiest way to run Python and Jupyter notebooks on your computer is through Anaconda. Anaconda is an open-source (free!) Python distribution platform.
 
-Click here to download [Anaconda Distribution (Python 3.10, 64-Bit Graphical Installer)](https://www.anaconda.com/products/distribution). Make sure you are downloading the correct version for your operating system (Windows, Mac, or Linux).
+Click here to download [Anaconda Distribution (Python 3.11, 64-Bit Graphical Installer)](https://www.anaconda.com/products/distribution). Make sure you are downloading the correct version for your operating system (Windows, Mac, or Linux).
 
-We recommend students to run notebooks locally on their computers by downloading Anaconda, but Anaconda now has a new feature where you can run notebooks in the cloud. Through the above linked website, you can click on 'Start Coding Now' instead of 'Download', create a free account, verify your email, then use their cloud interface. Note that interface uses JupyterLab, which is pretty similar but different to Jupyter Notebooks. Keep in mind that you still have to download the coding bootcamp materials from this repository, then upload it to the cloud.
+We recommend students to run notebooks locally on their computers by downloading Anaconda, but Anaconda now has a new feature where you can run notebooks in the cloud - [you can access this feature here](https://www.anaconda.com/products/notebooks). Note that interface uses JupyterLab, which is pretty similar but different to Jupyter Notebooks. Keep in mind that you still have to download the coding bootcamp materials from this repository, then upload it to the cloud.
 
 ## Running Jupyter Notebooks
 
@@ -49,7 +49,7 @@ In case Anaconda isn't working, an alternative option is to run the Jupyter note
 
 The Berkeley Lab K-12 team is truly grateful to the following who contributed to notebooks/slides:
 
-**Notebooks:** Kseniya Usovich, Rachel McCarty, Baishakhi Bose, Laurel Hales, Samanvitha Murthy
+**Notebooks:** Kseniya Usovich, Rachel McCarty, Baishakhi Bose, Laurel Hales, Samanvitha Murthy, Arianna Formenti
 
 **Slides:** Emilia Calderon, Christina McGhee-Esquivel, Rachel McCarty, Laurel Hales
 
