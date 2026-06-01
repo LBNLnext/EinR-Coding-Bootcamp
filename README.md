@@ -2,13 +2,9 @@
 
 ## Introduction
 
-This repository contains the Jupyter notebooks for Berkeley Lab K-12 STEM Education & Outreach Programs Experiences in Research (EinR) Coding Bootcamp. The purpose of this coding bootcamp is to help prepare interns to successfully work on coding-based projects. The coding bootcamp will be in Python and utilize Jupyter notebooks. The following topics will be covered:
+This repository contains the Jupyter notebooks for Berkeley Lab K-12 STEM Education & Outreach Programs Experiences in Research (EinR) Coding Bootcamp. The purpose of this coding bootcamp is to help prepare interns to successfully work on coding-based projects. The coding bootcamp will be in Python and utilize Jupyter notebooks. 
 
-- NumPy Arrays
-- Matplotlib Data Visualization
-- Machine Learning: Regression, Classification
-
-There are optional pre-work notebooks for students who need an introduction or refresher on the following topics:
+The coding bootcamp for 2026 will focus on machine learning (regression and classification). This repo contains optional pre-work notebooks for students who need an introduction or refresher on the following topics:
 
 - Jupyter notebook basics
 - Data types
@@ -18,6 +14,8 @@ There are optional pre-work notebooks for students who need an introduction or r
 - Dictionaries
 - Conditionals
 - Loops
+- NumPy Arrays
+- Matplotlib Data Visualization
 
 Lesson materials for other parts of the bootcamp (data analysis / visualization using spreadsheets and scripting) are shared in a shared Google folder with interns.
 
@@ -30,7 +28,15 @@ First, you need to download the coding bootcamp materials from this repository:
 
 You can run the notebooks in multiple ways:
 
-### 1. Locally through Anaconda
+### 1. In the cloud with Google Colab
+
+If you have a Google account, you should have access to [Google Colab](https://colab.research.google.com/). You will still need to download the coding bootcamp materials and then upload it to your drive.
+
+This will be the method we will use during the bootcamp.
+
+*Note that this may not easily work for notebook 04_data-visualization as you will have to make sure each path to read in the data files are correct.* 
+
+### 2. Locally through Anaconda
 
 You can run Python and Jupyter notebooks on your computer through Anaconda. Anaconda is an open-source (free!) Python distribution platform.
 
@@ -42,17 +48,13 @@ Click here to download [Anaconda Distribution (Python 3.12, 64-Bit Graphical Ins
 
 We recommend students to run notebooks locally on their computers by downloading Anaconda, but Anaconda now has a new feature where you can run notebooks in the cloud - [you can access this feature here](https://www.anaconda.com/products/notebooks). Note that interface uses JupyterLab, which is pretty similar but different to Jupyter Notebooks. Keep in mind that you still have to download the coding bootcamp materials from this repository, then upload it to the cloud.
 
-### 2. Binder
+### 3. Binder
 
 In case Anaconda isn't working, an alternative option is to run the Jupyter notebooks in the cloud through binder. Just keep in mind that your work is **not** saved in binder.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LBNLnext/EinR-Coding-Bootcamp/HEAD?urlpath=tree)
 
-### 3. In the cloud with Google Colab
 
-If you have a Google account, you should have access to [Google Colab](https://colab.research.google.com/). You will still need to download the coding bootcamp materials and then upload it to your drive.
-
-*Note that this may not easily work for notebook 04_data-visualization as you will have to make sure each path to read in the data files are correct.* 
 
 
 ## Link to folder containing workshop slides
@@ -61,7 +63,7 @@ If you have a Google account, you should have access to [Google Colab](https://c
 
 ## Acknowledgements
 
-The Berkeley Lab K-12 team is truly grateful to the following who contributed to notebooks/slides:
+The Berkeley Lab A-LIFT team is truly grateful to the following who contributed to notebooks/slides:
 
 **Notebooks:** Kseniya Usovich, Rachel McCarty, Baishakhi Bose, Laurel Hales, Samanvitha Murthy, Arianna Formenti, Alex Ganose, Ryan Kingsbury, Jianli Cheng
 
